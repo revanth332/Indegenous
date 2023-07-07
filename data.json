@@ -1,0 +1,526 @@
+[
+    {
+        "id": 78,
+        "user": "4",
+        "title": "INDEGENOUS",
+        "category": "Cat-2",
+        "notes": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "blockGroup",
+                    "content": [
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "31615210-c734-49a8-b25a-1eca1eebc24d",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "9633f5ad-ca2e-4709-9104-439a8fc93d22",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "marks": [
+                                                {
+                                                    "type": "textColor",
+                                                    "attrs": {
+                                                        "color": "blue"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "backgroundColor",
+                                                    "attrs": {
+                                                        "color": "gray"
+                                                    }
+                                                }
+                                            ],
+                                            "text": "Indigenous refers to the original or native inhabitants of a particular region or country. These are the people who have been living in a specific area for generations or centuries, having their own language, culture, and traditions that are distinct from those of the majority population.nnIndigenous communities often face challenges such as discrimination, marginalization, and the loss of their land and resources. Efforts have been made by governments and organizations around the world to promote and protect the rights and well-being of indigenous peoples. This includes recognizing their ancestral lands, preserving their cultural heritage, and promoting their social and economic development.nnIn recent years, there has been a growing recognition of the importance of indigenous knowledge and practices in areas such as sustainable development, climate change adaptation, and biodiversity conservation. Indigenous peoples possess valuable knowledge and skills that can contribute to solving global challenges and building a more inclusive and sustainable world."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "c08f1346-a22b-45d1-880f-e198cf111983",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 98,
+        "user": "4",
+        "title": "NEW TASKS😋",
+        "category": "Cat-6",
+        "notes": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "blockGroup",
+                    "content": [
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "a6babaff-f5d7-472b-adc0-28d7ce378ef2",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "39a78471-6164-4e21-9248-c950930abd5c",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "531ae074-6ee5-4bed-bda4-e61e21430440",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "6959e1fc-43df-44d5-b5af-4164e542b16c",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "heading",
+                                    "attrs": {
+                                        "textAlignment": "left",
+                                        "level": "1"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create new Category"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "58af3868-1d61-4ef2-9141-e8e834595560",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "02a7a7ad-f1c5-4c78-bea4-b33419693d33",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "29b75296-2c5b-4aee-b81b-25eef1359d88",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "heading",
+                                    "attrs": {
+                                        "textAlignment": "left",
+                                        "level": "3"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "Uncategorised if no category provided."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "da11cb6d-796f-4b60-be5a-5b68565e7641",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "0edb9c8e-8c5b-4229-a056-348b12715eef",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "heading",
+                                    "attrs": {
+                                        "textAlignment": "left",
+                                        "level": "1"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "AutoSave (5 seconds)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "3851977e-5798-4279-b778-532b56a45a15",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "7a7562ce-24b9-4884-a2a6-a11fc5e142bc",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "heading",
+                                    "attrs": {
+                                        "textAlignment": "left",
+                                        "level": "1"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "marks": [
+                                                {
+                                                    "type": "link",
+                                                    "attrs": {
+                                                        "href": "https: //getemoji.com/",
+                                                        "target": "_blank",
+                                                        "class": null
+                                                    }
+                                                },
+                                                {
+                                                    "type": "underline"
+                                                }
+                                            ],
+                                            "text": "😋 Emoticons Lib implementation"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "f3e26dc1-c28e-475f-98a2-01d221781c26",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "heading",
+                                    "attrs": {
+                                        "textAlignment": "left",
+                                        "level": "1"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "E"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "e7c07c5f-62ee-454d-8f92-61090677b475",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "user": "4",
+        "title": "NEWCAT3NOTES",
+        "category": "Cat-5",
+        "notes": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "blockGroup",
+                    "content": [
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "c0114047-fa81-4b63-a151-a44209dfa0dd",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "12a74cf4-6cbb-4d81-8bb3-34807482e35d",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "marks": [
+                                                {
+                                                    "type": "textColor",
+                                                    "attrs": {
+                                                        "color": "blue"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "backgroundColor",
+                                                    "attrs": {
+                                                        "color": "gray"
+                                                    }
+                                                }
+                                            ],
+                                            "text": "Sorry, but I am an AI language model and I cannot provide new notes as I do not have access to your previous notes or know what specific information you are looking for. However, I can assist with answering questions or generating text on a given topic if you provide more information."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "788be302-441f-411a-8f17-b3027a4fb390",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 100,
+        "user": "4",
+        "title": "New!",
+        "category": "Cat-5",
+        "notes": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "blockGroup",
+                    "content": [
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "2f3e8388-5bb2-4b9b-8e24-ff317d341700",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "87dec0c2-69a4-46bb-8a68-83ff5d5507a1",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "marks": [
+                                                {
+                                                    "type": "textColor",
+                                                    "attrs": {
+                                                        "color": "blue"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "backgroundColor",
+                                                    "attrs": {
+                                                        "color": "gray"
+                                                    }
+                                                }
+                                            ],
+                                            "text": "Sorry, can you please provide more context or clarify what you mean by 'new'?"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "blockContainer",
+                            "attrs": {
+                                "id": "2739447f-c1c8-4cac-9932-36afe35e828c",
+                                "textColor": "default",
+                                "backgroundColor": "default"
+                            },
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "textAlignment": "left"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
